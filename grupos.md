@@ -14,3 +14,4 @@ ID | Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 10 | Carros | Daniel | Emiliano | Vinícius Leal
 11 | Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
 12 | Pantanal Fm | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
+13 | Solo | Nicolas (41995855245)
